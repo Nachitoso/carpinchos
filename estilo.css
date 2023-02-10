@@ -1,0 +1,70 @@
+body {
+	background-color: #f5eee9
+}
+* {
+	font-family: Rubik;
+	font-weight: 500;
+	margin-left: 50px;
+	
+}
+#titulo {
+	color: #ffffff;
+	font-size: 130px;
+	margin: 0;
+	background-color: #95522a;
+	width: 100 % ;
+	font-family: Oswald;
+	line-height: 1.5;
+	font-weight: 600;
+	padding: 10px 100px;
+	text-align: center; 
+}
+#imagen {
+	border-radius: 7px;
+}
+#logo-header {
+	background: #95522a;
+}
+.video-article {
+	margin-left: 500px;
+	margin-top: -300px;
+}
+.image-article {
+	margin-left: 50px;
+}
+.text-article {
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	margin-right: 800px;
+	background-color: #e9ddd5;
+}
+#imagen-parrafo {
+	float: right;
+	border-radius: 10px;
+	padding: 15px;
+}
+#parrafo {
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #e9ddd5;
+}
+#lista{
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #e9ddd5;
+}
+.venta {
+	margin-left: 65%;
+	margin-top: -50%;
+}
+#venta-peluche {
+	margin-left: 210px;
+	margin-top: -200px;
+	margin-bottom: 10px;
+}
+.final {
+	margin-top: 100%;
+}
